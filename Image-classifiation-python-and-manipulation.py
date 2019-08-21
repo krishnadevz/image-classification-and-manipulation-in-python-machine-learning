@@ -1,15 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
 
 
 import tensorflow as tf
-
-
-# In[5]:
-
-
 from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
@@ -119,27 +113,6 @@ model = keras.Sequential([
     keras.layers.Dense(128, activation=tf.nn.relu),
     keras.layers.Dense(10, activation=tf.nn.softmax)
 ])
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
