@@ -11,63 +11,48 @@ import matplotlib.pyplot as plt
 
 print(tf.__version__)
 
-
-# In[8]:
-
-
 fashion_mnist=keras.datasets.fashion_mnist
-
-
-# In[9]:
 
 
 import os
 print(os.getcwd())
 
 
-# In[10]:
 
 
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
 
-# In[11]:
 
 
 class_names=['T-shirt/top','Trouser','Pullover','Dress','Coat','Sandal','Shirt','Sneaker','Ankle boot','Bag']
 
 
-# In[12]:
 
 
 train_images.shape
 
 
-# In[13]:
 
 
 len(train_labels)
 
 
-# In[14]:
 
 
 test_images.shape
 
 
-# In[15]:
 
 
 len(train_labels)
 
 
-# In[16]:
 
 
 train_labels
 
 
-# In[17]:
 
 
 #### now we have to preprocess this data so now we are try to load an image krishna's writes
@@ -78,14 +63,12 @@ plt.grid(False)
 plt.show()
 
 
-# In[18]:
 
 
 train_images=train_images/255.0
 test_images=test_images/255.0
 
 
-# In[19]:
 
 
 plt.figure(figsize=(10,10))
@@ -100,7 +83,6 @@ plt.show()
 # where are displaying classes name below
 
 
-# In[28]:
 
 
 # now we have to set layers the basic represention of neural network is layer
