@@ -9,9 +9,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# In[7]:
-
-
 print(tf.__version__)
 
 
