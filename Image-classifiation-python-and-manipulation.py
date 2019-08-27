@@ -17,17 +17,9 @@ fashion_mnist=keras.datasets.fashion_mnist
 import os
 print(os.getcwd())
 
-
-
-
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
-
-
-
 class_names=['T-shirt/top','Trouser','Pullover','Dress','Coat','Sandal','Shirt','Sneaker','Ankle boot','Bag']
-
-
 
 
 train_images.shape
