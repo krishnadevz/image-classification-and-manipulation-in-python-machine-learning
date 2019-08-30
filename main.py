@@ -1,19 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-
-
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 print(tf.__version__)
 
 fashion_mnist=keras.datasets.fashion_mnist
-
-
 import os
 print(os.getcwd())
 
@@ -24,28 +18,13 @@ class_names=['T-shirt/top','Trouser','Pullover','Dress','Coat','Sandal','Shirt',
 
 train_images.shape
 
-
-
-
 len(train_labels)
-
-
-
 
 test_images.shape
 
-
-
-
 len(train_labels)
 
-
-
-
 train_labels
-
-
-
 
 #### now we have to preprocess this data so now we are try to load an image krishna's writes
 plt.figure()
@@ -54,14 +33,8 @@ plt.colorbar()
 plt.grid(False)
 plt.show()
 
-
-
-
 train_images=train_images/255.0
 test_images=test_images/255.0
-
-
-
 
 plt.figure(figsize=(10,10))
 for i in range(25):
@@ -73,9 +46,6 @@ for i in range(25):
     plt.xlabel(class_names[train_labels[i]])
 plt.show()
 # where are displaying classes name below
-
-
-
 
 # now we have to set layers the basic represention of neural network is layer
 # relu is rectfied linear network
