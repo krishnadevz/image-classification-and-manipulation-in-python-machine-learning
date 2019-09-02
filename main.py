@@ -9,7 +9,8 @@ print(tf.__version__)
 
 fashion_mnist=keras.datasets.fashion_mnist
 import os
-print(os.getcwd())
+
+print(os.getcwd())#checking directory overhere
 
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
