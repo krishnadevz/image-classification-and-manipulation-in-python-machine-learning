@@ -15,7 +15,6 @@ print(os.getcwd())
 
 class_names=['T-shirt/top','Trouser','Pullover','Dress','Coat','Sandal','Shirt','Sneaker','Ankle boot','Bag']
 
-
 train_images.shape
 
 len(train_labels)
