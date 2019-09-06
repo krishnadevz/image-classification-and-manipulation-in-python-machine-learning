@@ -46,7 +46,6 @@ for i in range(25):
     plt.xlabel(class_names[train_labels[i]])
 plt.show()
 # where are displaying classes name below
-
 # now we have to set layers the basic represention of neural network is layer
 # relu is rectfied linear network
 model = keras.Sequential([
