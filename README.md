@@ -55,3 +55,19 @@ Now we are going to plot with prediction several image from our prediction and i
 <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-12%20191357.png" alt="six">
 <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-12%20191451.png" alt="six">
 
+<b>for getting code you can grow through the .ipynb main code file</b>
+
+# image manipulation in python 
+<b>this section is in working state </b>
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/CONTRIBUTING.md) for contributing click this link.
+
+
+## Author
+
+* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+
+
+
