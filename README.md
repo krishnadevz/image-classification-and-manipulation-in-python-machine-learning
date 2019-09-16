@@ -58,8 +58,20 @@ Now we are going to plot with prediction several image from our prediction and i
 <b>for getting code you can grow through the .ipynb main code file</b>
 
 # image manipulation in python 
-<b>this section is in working state </b>
-
+<b>After accessing the image from fashinmnist dataset i got below image i snipped that image and after that saved in my jupyter directory and further details see below
+ <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-16%20221417.png" alt="4">
+ <br><b>After that i imported pillow library for manipulation of image in python See below</b>
+ <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-17%20000311.png" alt="44">
+ <b>code snippet</b>
+ <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-17%20001442.png" alt="77">
+ <br>
+ <b>After that this two results you can get</b>
+  <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/IMG.png" alt="45">
+ <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/img2.png" alt="56"><br>
+ <b>Gray cycle image is below</b>
+ <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-17%20001024.png" alt="98">
+ <b>I hope you understand and i hope you appreciate my documentation+code snippes thank you to all universe.</b>
+ 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/CONTRIBUTING.md) for contributing click this link.
