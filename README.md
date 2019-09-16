@@ -6,7 +6,7 @@
 What things you need to install the packages and how to install them
 
 ```
-<b>install anaconda and jupyter notebook</b>
+install anaconda and jupyter notebook
 tensorflow ,pandas,numpy,python(pip)Preferred Installer Program (Python),amtplotlib,keras etc.
 if you don't install this then you get error after
 that you to install that ok
