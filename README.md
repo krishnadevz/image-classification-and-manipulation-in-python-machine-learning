@@ -15,6 +15,11 @@ then
 activate myenv 
 then you can run this project in your jupyter notebook
 ```
+<br> <b>used functions</b>
+ReLU (Rectified Linear Unit) Activation Function
+The ReLU is the most used activation function in the world right now.Since, it is used in almost all the convolutional neural networks or deep learning.
+<br>Adam is an optimization algorithm that can used instead of the classical stochastic gradient descent procedure to update network weights iterative based in training data. ... The algorithm is called Adam.
+<br>numpy.argmax. Returns the indices of the maximum values along an axis. ... By default, the index is into the flattened array, otherwise along the specified axis.
 
 # image classifiaction program workflow
 <hr>
