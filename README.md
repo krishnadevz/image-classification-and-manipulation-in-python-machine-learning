@@ -1,6 +1,6 @@
 # image-classification-and-manipulation-in-python-machine-learning
 
-<b>image-classifiaction on the fashion-mnist inbuilt dataset in keras library all image classifiaction operations operations perform on Fashio-MNIST dataset  </b>
+<b>image-classifiaction on the fashion-mnist inbuilt dataset in keras library all image classifiaction operations are performed on Fashion-MNIST dataset  and the new thing in this project is image manipulation not done yet on this dataset i done by taking snap of the images and i done image manipulation you cannot find image manipulation on fashion-mnist dataset on Google :) here you can get </b>
 ### Prerequisites
 
 What things you need to install the packages and how to install them
@@ -75,7 +75,7 @@ Now we are going to plot with prediction several image from our prediction and i
  <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/img2.png" alt="56"><br>
  <b>Gray cycle image is below</b>
  <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-17%20001024.png" alt="98">
- <b>I hope you understand and i hope you appreciate my documentation+code snippes thank you to all universe.</b>
+ <b>I hope you understand and i hope you appreciate my documentation+code snippes i worked more this project thank you to all universe.</b>
  
 ## Contributing
 
